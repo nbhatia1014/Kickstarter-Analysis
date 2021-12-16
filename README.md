@@ -7,6 +7,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![This is an image](https://github.com/nbhatia1014/Kickstarter-Analysis/blob/1b56bb1a9f87cb1bdd37f2a32ed66b8a1b34d978/Module%201%20Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 ![This is an image](https://github.com/nbhatia1014/Kickstarter-Analysis/blob/f1b0115bc1b5bb709e6909636bf9574f82d5fe80/Module%201%20Resources/Outcomes_vs_Goals.png)

@@ -9,6 +9,7 @@
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
+![This is an image}(Module 1 Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 

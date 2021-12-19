@@ -25,14 +25,17 @@ During the Outcome Based on Goals analysis I had an issue with the multi criteri
 
 ## Results
 
+### Outcomes Based on Launch Date
 After reviewing the Outcomes based on Launch Date chart, I was able to come to two important conclusions: (i) Using Kickstarter to fundraise for a Theater project are more likely to succeed than to fail and (ii) The most popular and most successful quarters to fundraise are in 2Q and 3Q (April - September).
 
   (i) After reviewing the data in the Pivot Table, Theater fundraisers succeeded ~61% of the time and failed ~36% of the time. Only 3% of the fundraisers were canceled. This signifies that nearly 6 out of every 10 theatre fundraisers will be successfull. This should be reassuring to Louise in her quest to fundraise for her Theater project. She is far more likely to succeed in her fundraising goals.
   
   (ii) When analyzing the data set, you will notice the most popular time to fundraise is between April and September (2Q and 3Q). In addition, the fundrasiers in these months tend to have a higher success rate. On average, in these months have the highest rate of success than the months in 1Q and 4Q. This should signal to Louise, that these 6-months are going to be the most popular times for her to fundraise and that they will have a much higher likelyhood of succeeding.
- 
+
+### Outcomes Based on Goals
 When analyzing the Outcomes Based on Goals, I was able to conclude that the goal amount is an important part when determining the outcome of the fundraiser. Approximately 84% (889) of the fundraisers had a goal less than $10,000. Of these fundraisers, 70% (622) of them reached their goals and succeeded. These 622 successful theater fundraisers account of 90% of all the successful fundraisers.
 
+### Limitations
 There are a couple limitations to the Kickstarter dataset that stood out to me: (i) Data is only from Kickstarter and (ii) the data is not recent. This could possible create a skew in the data we have analyzed. 
 
   (i) Kickstarter has approximately 47% of the crowd sourcing market. This makes it one of the largest crowd sourcing websites, but it is not the only one. If we were able to use data from multiple crowd sourcing sites, we would be able to make more accurate conclusions and we could even tell Louise which site to use. 
